@@ -1,0 +1,5 @@
+mxnet==1.6.0
+numpy
+xlsxwriter==1.2.9
+matplotlib==3.3.2
+scikit-learn==0.23.2
