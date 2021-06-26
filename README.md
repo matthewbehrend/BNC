@@ -35,7 +35,8 @@ class BNCInspect explores feature distributions in an ablation study of the batc
 ## Reference
 Please cite our paper if you use this code
 ```
-[arXiv reference]
+M.R. Behrend and S.M. Robinson, "A Batch Normalization Classifier for Domain Adaptation", arXiv e-prints, p. arXiv:2103.11642, 2021.
+https://arxiv.org/abs/2103.11642
 ```
 
 ## Contact
